@@ -1,4 +1,4 @@
-Marcação de Voltas de Corrida
+Marcação de Voltas de Corrida.
 Este projeto é um sistema de marcação de voltas para corridas, desenvolvido em Java com integração ao banco de dados MySQL. 
 O sistema permite registrar e gerenciar as voltas dos competidores, armazenando informações como tempo de volta, competidor, e posição na corrida.
 
